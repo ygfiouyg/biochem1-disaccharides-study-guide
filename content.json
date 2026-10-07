@@ -1222,99 +1222,100 @@
  ],
  "high_risk": [
   {
-   "t": "تعريف الـ Disaccharide وطريقة تكوينه",
-   "idea": "الـ Disaccharide يتكون من اتحاد اثنين Monosaccharide في تفاعل Condensation مع فقد جزيء ماء. أمثلة: Sucrose, Lactose, Maltose.",
-   "why": "سؤال تعريف أساسي ومتكرر في الامتحانات.",
+   "t": "تعريف الـ Disaccharide وتكوينه",
+   "idea": "الـ Disaccharide هو كربوهيدرات يتكون عند اتحاد اثنين من الـ monosaccharides في تفاعل condensation مع طرد جزيء ماء. الأمثلة الشائعة: sucrose، lactose، maltose.",
+   "why": "سؤال تعريف أساسي ومتكرر، ويربط بين التركيب والتفاعل.",
    "page": "3",
-   "alt": "ما هو الـ Disaccharide؟ اذكر مثالين."
+   "alt": "ما هو الـ disaccharide؟ وكيف يتكون؟ اذكر أمثلة."
   },
   {
-   "t": "الفرق بين Reducing و Non-reducing Disaccharides",
-   "idea": "Reducing: يوجد free hydroxyl group عند anomeric carbon مثل Lactose و Maltose. Non-reducing: لا يوجد free hydroxyl group عند anomeric carbon مثل Sucrose.",
-   "why": "تمييز مهم يترتب عليه نتائج الاختبارات الكيميائية.",
+   "t": "تصنيف الـ Disaccharides إلى Reducing و Non-Reducing",
+   "idea": "الـ Reducing disaccharides بها free hydroxyl group عند anomeric carbon، مثل lactose و maltose. الـ Non-reducing disaccharides لا يوجد بها free hydroxyl group عند anomeric carbon.",
+   "why": "تصنيف عالي الأهمية ويُسأل عنه كثيرًا مع الأمثلة.",
    "page": "4",
-   "alt": "اذكر أنواع الـ Disaccharides مع مثال لكل نوع."
+   "alt": "قارن بين reducing و non-reducing disaccharides مع مثال لكل نوع."
   },
   {
-   "t": "تركيب Maltose وخصائصه",
-   "idea": "Maltose = glucose + glucose برابطة α(1→4). يوجد في germinating seeds مثل barley. يظهر mutarotation. حلو الطعم ولا يوجد حراً في الطبيعة.",
-   "why": "من أكثر الأمثلة المطلوبة في الامتحان.",
-   "page": "6-7",
-   "alt": "ما هو Maltose؟ وما نوع الرابطة فيه؟"
+   "t": "Mutarotation في المالتوز",
+   "idea": "Maltose في المحلول المائي يُظهر mutarotation بسبب anomeric carbon الذي يمكن أن يكون α و β isomers، ويوجد اتزان بين الصورتين. وهو حلو المذاق ولا يوجد حرًا في الطبيعة.",
+   "why": "خاصية فيزيائية وكيميائية مميزة للمالتوز، وسؤال شائع.",
+   "page": "7",
+   "alt": "لماذا يحدث mutarotation للمالتوز؟ وما هي خواصه؟"
   },
   {
-   "t": "تركيب Lactose وخصائصه",
-   "idea": "Lactose = galactose + glucose برابطة β-1→4. يوجد في milk ويستخلص من sweet or sour whey. الاسم النظامي β-D-galactopyranosyl-(1→4)-D-glucose.",
-   "why": "سؤال شائع عن lactose ومصدره وتركيبه.",
+   "t": "تركيب اللاكتوز واسمه النظامي",
+   "idea": "Lactose يوجد في اللبن ويُستخلص من sweet or sour whey. يتكون من condensation بين galactose و glucose برابطة β-1→4 glycosidic linkage. اسمه النظامي: β-D-galactopyranosyl-(1→4)-D-glucose.",
+   "why": "سؤال تركيب ورابطة واسم نظامي، غالبًا يأتي كسؤال مباشر.",
    "page": "8-9",
-   "alt": "ما هو الاسم النظامي لـ Lactose؟"
-  },
-  {
-   "t": "تركيب Sucrose",
-   "idea": "Sucrose = α-D-glucopyranose + β-D-fructofuranose برابطة α-β1-2 glycosidic linkage. وهو Non-reducing disaccharide.",
-   "why": "تركيب Sucrose وسؤال لماذا هو non-reducing.",
-   "page": "14",
-   "alt": "ما هو تركيب السكروز؟ ولماذا لا يختزل؟"
-  },
-  {
-   "t": "Invert sugar و Invertase",
-   "idea": "Sucrose dextrorotatory (d). عند hydrolysis يعطي خليط متساوي من glucose + fructose levorotatory (L) يسمى invert sugar. الإنزيم المسؤول هو invertase.",
-   "why": "سؤال متكرر عن انعكاس الدوران.",
-   "page": "15",
-   "alt": "ما هو Invert sugar؟ وما سبب تسميته؟"
+   "alt": "ما مصدر اللاكتوز؟ وما مكوناته ونوع الرابطة واسمه النظامي؟"
   },
   {
    "t": "Molisch's reaction للـ Disaccharides",
-   "idea": "Molisch's reaction: conc H2SO4 يحلل disaccharide إلى simple sugars ثم dehydration إلى HMF/furfural ثم condensation مع alpha naphthol يعطي violet ring.",
-   "why": "اختبار عام لكل الكربوهيدرات وغالباً يأتي مع التعليل.",
-   "page": "10,16",
-   "alt": "ما هو Molisch test؟ وما تفسير النتيجة؟"
+   "idea": "Procedure و observation كما في monosaccharide. التعليق: hydrolysis للـ disaccharide بواسطة conc H2SO4 إلى simple sugars، ثم dehydration للجلوكوز إلى hydroxymethyl furfural (HMF) بواسطة conc sulphuric acid، ثم condensation لـ HMF مع 2 molecules من alpha naphthol ويعطي violet ring.",
+   "why": "تفاعل عام للكشف عن الكربوهيدرات، والخطوات والتعليق مطلوبة.",
+   "page": "10",
+   "alt": "اشرح Molisch's test للـ disaccharides مع التعليق."
   },
   {
-   "t": "اختبارات Reducing sugars مع Sucrose",
-   "idea": "Fehling, Benedict, Barfoed, Moor: إيجابية مع Maltose و Lactose. Sucrose سلبية. Osazone: Sucrose no result due absence free hydroxyl group at anomeric carbon. Barfoed heating 10 min.",
-   "why": "مقارنة مهمة بين السكريات المختزلة وغير المختزلة.",
-   "page": "11,17",
-   "alt": "لماذا لا يعطي Sucrose نتيجة مع Fehling؟"
+   "t": "اختبارات السكريات المختزلة",
+   "idea": "Fehling's test، Benedict's test، Barfoed's test (نفس الإجراء لكن التسخين في boiling water bath لمدة 10 دقائق)، Moor's test. كلها Procedure و observation و comments كما في Monosaccharides.",
+   "why": "قائمة اختبارات reducing sugars شائعة جدًا وقد يأتي سؤال مقارنة أو إجراء.",
+   "page": "11",
+   "alt": "اذكر اختبارات الكشف عن reducing sugars مع ملاحظة خاصة بـ Barfoed's test."
   },
   {
-   "t": "Osazone test وأشكال البلورات",
-   "idea": "Maltose: maltosazones rose-shaped (Rosettes). Lactose: lactosazones sun-shaped. Heating for 45 minutes.",
-   "why": "تفصيلة حفظ شهيرة وسهلة السؤال.",
-   "page": "12",
-   "alt": "ما شكل osazone في Maltose و Lactose؟"
+   "t": "تكوين السكروز ورابطته",
+   "idea": "Sucrose (Cane sugar) يتكون من condensation بين α-D-glucopyranose و β-D-fructofuranose عبر α-β1-2-glucosidic linkage. وهو non-reducing disaccharide.",
+   "why": "تركيب السكروز ونوع الرابطة سؤال أساسي ومتكرر.",
+   "page": "14",
+   "alt": "ما مكونات السكروز؟ وما نوع الرابطة؟ ولماذا هو non-reducing؟"
   },
   {
-   "t": "Ketose test و Acid hydrolysis للسكروز",
-   "idea": "Ketose test: HCl + boil يعطي reddish brown بسبب hydrolysis إلى fructose ثم furfural. Acid hydrolysis: dilute H2SO4 + boil ثم neutralize with 30% NaOH قبل Fehling. Observation red ppt. N.B. excess acid dissolves cuprous oxide.",
-   "why": "اختبارات خاصة بالسكروز مع ملاحظة Neutralization.",
-   "page": "18-19",
-   "alt": "لماذا نضيف NaOH قبل Fehling في Acid hydrolysis؟"
+   "t": "النشاط الضوئي للسكروز و Invert Sugar",
+   "idea": "Sucrose dextrorotatory (d)، وعند hydrolysis يعطي mixture levorotatory (L) من كميات متساوية من glucose و fructose. هذا الخليط يسمى invert sugar، والإنزيم المسؤول يسمى invertase، بسبب inversion of rotation من dextro إلى levo أثناء hydrolysis.",
+   "why": "مفهوم invert sugar و invertase مرتبط بالسكروز وغالبًا يُسأل عنه.",
+   "page": "15",
+   "alt": "اشرح لماذا يسمى ناتج تحلل السكروز invert sugar؟ وما دور invertase؟"
+  },
+  {
+   "t": "Ketose test للسكروز",
+   "idea": "Procedure: أضف 2 ml من محلول السكر إلى 1 ml من conc HCl واغلِ لمدة 2 min. Observation: reddish brown. Comment: HCl يحلل السكروز إلى glucose و fructose، ثم dehydration للفركتوز وتكوين furfural الذي يعطي لون reddish brown في وسط acidic.",
+   "why": "اختبار نوعي مميز للسكروز/الفركتوز، واللون والتعليق مطلوبان.",
+   "page": "18",
+   "alt": "ما هو Ketose test؟ وما ملاحظته وتعليله؟"
+  },
+  {
+   "t": "Acid hydrolysis للسكروز قبل Fehling",
+   "idea": "Procedure: 5 ml sucrose + 2 ml dilute sulfuric acid، boil 2 min، cool، neutralize بـ 2 ml من 30% NaOH، ثم خذ 2 ml من hydrolysate + 2 ml mixed Fehling's reagent و boil. Observation: Red ppt. N.B: يجب neutralization بـ NaOH قبل Fehling لأن excess acid يذيب cuprous oxide. Comment: acid hydrolysis يحول sucrose إلى glucose و fructose وكلاهما يختزل Cu+2 إلى Cu2O (red ppt).",
+   "why": "سؤال عملي مهم جدًا، خاصة دور NaOH وسبب red ppt.",
+   "page": "19",
+   "alt": "لماذا نضيف NaOH بعد acid hydrolysis للسكروز قبل اختبار Fehling؟ وما الملاحظة والتعليق؟"
   }
  ],
  "must_know": [
-  "Disaccharide = two monosaccharides + condensation - water.",
-  "Reducing disaccharides: Lactose, Maltose. Non-reducing: Sucrose.",
-  "Maltose: glucose + glucose, α(1→4), germinating seeds, mutarotation, not free in nature.",
-  "Lactose: galactose + glucose, β-1→4, milk, whey, systematic name β-D-galactopyranosyl-(1→4)-D-glucose.",
-  "Sucrose: α-D-glucopyranose + β-D-fructofuranose, α-β1-2 linkage, non-reducing, cane sugar.",
-  "Invert sugar: glucose + fructose, dextro to levo, enzyme invertase.",
-  "Molisch positive for all carbohydrates: violet ring.",
-  "Fehling, Benedict, Barfoed, Moor positive for Maltose and Lactose; negative for Sucrose.",
-  "Osazone: Maltose rosettes, Lactose sun-shaped, heating 45 min.",
-  "Sucrose ketose test: HCl boil gives reddish brown due fructose furfural.",
-  "Acid hydrolysis of sucrose: neutralize with NaOH before Fehling; excess acid dissolves cuprous oxide.",
-  "Barfoed test: heat in boiling water bath for 10 min."
+  "تعريف disaccharide وتكوينه بالcondensation مع فقد water.",
+  "أمثلة: sucrose، lactose، maltose.",
+  "الفرق بين reducing و non-reducing disaccharides مع أمثلة.",
+  "Lactose = galactose + glucose، β-1→4 glycosidic linkage، systematic name: β-D-galactopyranosyl-(1→4)-D-glucose.",
+  "Maltose يظهر mutarotation بسبب anomeric carbon، ولا يوجد حرًا في الطبيعة.",
+  "Sucrose = α-D-glucopyranose + β-D-fructofuranose، α-β1-2-glucosidic linkage، non-reducing.",
+  "Sucrose dextrorotatory، hydrolysis يعطي invert sugar (glucose + fructose) levorotatory، والإنزيم invertase.",
+  "Molisch's reaction: violet ring بسبب HMF + alpha naphthol.",
+  "Reducing sugar tests: Fehling، Benedict، Barfoed (10 min boiling water bath)، Moor's.",
+  "Ketose test: reddish brown بسبب furfural من fructose في acidic medium.",
+  "Acid hydrolysis of sucrose: neutralization بـ NaOH قبل Fehling لأن excess acid يذيب Cu2O."
  ],
  "dont_confuse": [
-  "Maltose α(1→4) glucose-glucose ≠ Lactose β(1→4) galactose-glucose.",
-  "Sucrose non-reducing ≠ Lactose/Maltose reducing.",
-  "Maltosazone rosettes ≠ Lactosazone sun-shaped.",
-  "Invertase enzyme ≠ Invert sugar mixture.",
-  "Sucrose dextrorotatory ≠ Invert sugar levorotatory.",
-  "Molisch positive all carbohydrates ≠ Reducing tests only reducing sugars.",
-  "Barfoed 10 min ≠ Osazone 45 min.",
-  "Neutralize acid before Fehling; excess acid dissolves Cu2O."
+  "Reducing disaccharide بها free hydroxyl at anomeric carbon، أما non-reducing فلا.",
+  "Lactose reducing، Sucrose non-reducing.",
+  "Lactose linkage β-1→4، أما Sucrose linkage α-β1-2.",
+  "Maltose يظهر mutarotation، أما Sucrose غير reducing.",
+  "Molisch's test يعطي violet ring، أما Ketose test يعطي reddish brown.",
+  "Barfoed's test يحتاج heating in boiling water bath لمدة 10 min، وليس مثل باقي الاختبارات.",
+  "في acid hydrolysis للسكروز يجب neutralization بـ NaOH قبل Fehling، وإلا excess acid يذيب cuprous oxide.",
+  "Invertase هو الإنزيم، وinvert sugar هو الخليط الناتج glucose + fructose.",
+  "Sucrose نفسها non-reducing، لكن نواتج hydrolysis (glucose + fructose) reducing.",
+  "Furfural ينتج من fructose في Ketose test، بينما HMF ينتج من glucose في Molisch's reaction."
  ],
- "one_min": "الـ Disaccharides تتكون من سكرين أحاديين مع فقد ماء. Maltose = glucose+glucose α1→4، Lactose = galactose+glucose β1→4، وكلاهما reducing. Sucrose = glucose+fructose α-β1-2 وغير reducing. Molisch موجب للكل. Reducing tests موجبة لـ Maltose و Lactose وسالبة لـ Sucrose. Osazone: Maltose rosettes و Lactose sun-shaped. Sucrose يعطي ketose test reddish brown، وفي acid hydrolysis نعادل بـ NaOH قبل Fehling لأن الحمض الزائد يذيب cuprous oxide."
+ "one_min": "Disaccharides = اتحاد سكرين مع فقد ماء. Reducing مثل lactose و maltose؛ non-reducing مثل sucrose. Lactose = galactose + glucose برابطة β-1→4. Sucrose = glucose + fructose برابطة α-β1-2، dextrorotatory، hydrolysis يعطي invert sugar بواسطة invertase. Molisch يعطي violet ring. Reducing tests: Fehling/Benedict/Barfoed/Moor's. Ketose test يعطي reddish brown. Acid hydrolysis للسكروز يحتاج neutralization بـ NaOH قبل Fehling."
 }
