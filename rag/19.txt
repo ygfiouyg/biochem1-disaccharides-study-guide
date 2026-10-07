@@ -1,0 +1,15 @@
+4.  Acid hydrolysis: Procedure:
+1.  Add 5 ml of sucrose, in a test tube
+2.  add 2 ml of dilute sulfuric acid.
+3.  Boil for 2 minutes then Cool thoroughly under the tap.
+4.  Neutralize by adding 2 ml of 30% NaOH.
+5.  Take about 2 ml of the hydrolysate and add 2ml of the mixed
+    Fehling's reagent and boil.
+Observation: Red ppt
+• N.B:It is essential to neutralize the hydrolysate with NaOH
+  before applying Fehling's solution as excess acid will dissolve
+  cuprous oxide.
+• Comment:
+• The acid hydrolyses sucrose to glucose and fructose & both of
+  them reduce Cu+2 to Cu2O (red ppt).
+

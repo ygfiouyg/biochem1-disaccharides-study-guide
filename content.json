@@ -1,0 +1,1320 @@
+{
+ "slug": "Disaccharides",
+ "pages": [
+  {
+   "page": 1,
+   "en": "Biochemistry-I",
+   "ar": "الكيمياء الحيوية - 1 (Biochemistry-I): عنوان المادة/المحاضرة.",
+   "ex": "تخيل إن دي لافتة أول صفحة في الكورس، بتقولك إحنا في مادة Biochemistry-I.",
+   "q": [
+    {
+     "q": "What is the title shown on page 1?",
+     "o": [
+      "Biochemistry-I",
+      "Carbohydrates",
+      "Disaccharides",
+      "Maltose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which subject does the page title indicate?",
+     "o": [
+      "Biochemistry-I",
+      "Organic Chemistry-II",
+      "Physics-I",
+      "Anatomy"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The page text is:",
+     "o": [
+      "Biochemistry-I",
+      "Section (2)",
+      "Disaccharides",
+      "Maltose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the course/lecture label?",
+     "o": [
+      "Biochemistry-I",
+      "Biochemistry-II",
+      "Chemistry-I",
+      "Biology-I"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which of the following appears on page 1?",
+     "o": [
+      "Biochemistry-I",
+      "Lactose",
+      "Sucrose",
+      "Maltose"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Section (2)\n\nCarbohydrates\nDisaccharides",
+   "ar": "القسم (2): الكربوهيدرات (Carbohydrates) - ثنائيات السكر (Disaccharides).",
+   "ex": "زي ما بنقسم المنهج لأقسام، ده القسم التاني وموضوعه الكربوهيدرات وبالتحديد الـ Disaccharides.",
+   "q": [
+    {
+     "q": "What is the section number?",
+     "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What is the main topic of Section (2)?",
+     "o": [
+      "Carbohydrates",
+      "Proteins",
+      "Lipids",
+      "Nucleic acids"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which specific carbohydrate type is covered?",
+     "o": [
+      "Disaccharides",
+      "Monosaccharides",
+      "Polysaccharides",
+      "Oligosaccharides"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The page heading includes which term?",
+     "o": [
+      "Disaccharides",
+      "Maltose",
+      "Lactose",
+      "Sucrose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Section (2) is about carbohydrates and which subtype?",
+     "o": [
+      "Disaccharides",
+      "Amino acids",
+      "Fatty acids",
+      "Enzymes"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Disaccharides\nA disaccharide is the carbohydrate formed when two monosaccharide undergo a condensation reaction which involves the elimination of water.\n\nThree common examples are sucrose, lactose and maltose.",
+   "ar": "ثنائيات السكر (Disaccharides): هي كربوهيدرات (carbohydrate) تتكون عندما يتحد اثنان من السكريات الأحادية (monosaccharides) في تفاعل تكاثف (condensation reaction) ينتج عنه طرد/فقدان جزيء ماء (elimination of water).\nأمثلة شائعة: السكروز (sucrose)، اللاكتوز (lactose)، والمالتوز (maltose).",
+   "ex": "تخيل اتنين مكعبات سكر (monosaccharides) بيقفلوا إيديهم ويرموا نقطة مية (water) عشان يمسكوا في بعض؛ الناتج ثنائي سكر (disaccharide).",
+   "q": [
+    {
+     "q": "A disaccharide is formed from how many monosaccharides?",
+     "o": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What type of reaction forms a disaccharide?",
+     "o": [
+      "Condensation",
+      "Hydrolysis",
+      "Oxidation",
+      "Reduction"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is eliminated during disaccharide formation?",
+     "o": [
+      "Water",
+      "Oxygen",
+      "Carbon dioxide",
+      "Ammonia"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which of the following is a common disaccharide?",
+     "o": [
+      "Sucrose",
+      "Glucose",
+      "Fructose",
+      "Galactose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which set lists three common disaccharides?",
+     "o": [
+      "Sucrose, lactose, maltose",
+      "Glucose, fructose, galactose",
+      "Starch, glycogen, cellulose",
+      "Ribose, deoxyribose, glucose"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "en": "There are two different types of disaccharides:\n• Reducing disaccharides: In which one monosaccharide, has a free hydroxyl group at the anomeric carbon.\nExamples include lactose and maltose.\n• Non-Reducing disaccharides: There is no free hydroxyl group at the anomeric carbon in the molecule",
+   "ar": "يوجد نوعان مختلفان من ثنائيات السكر (disaccharides):\n• ثنائيات سكر مختزلة (Reducing disaccharides): يكون فيها أحد السكريات الأحادية (monosaccharide) لديه مجموعة هيدروكسيل حرة (free hydroxyl group) عند الكربون الأنوميري (anomeric carbon). أمثلة: اللاكتوز (lactose) والمالتوز (maltose).\n• ثنائيات سكر غير مختزلة (Non-Reducing disaccharides): لا توجد مجموعة هيدروكسيل حرة عند الكربون الأنوميري في الجزيء.",
+   "ex": "الكربون الأنوميري ده زي 'مفتاح' السكر؛ لو المفتاح سايب/حر (free hydroxyl) يبقى السكر reducing. لو المفتاح مشغول ومفيش هيدروكسيل حر، يبقى non-reducing.",
+   "q": [
+    {
+     "q": "How many types of disaccharides are mentioned?",
+     "o": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+     ],
+     "a": 1
+    },
+    {
+     "q": "In reducing disaccharides, what is free at the anomeric carbon?",
+     "o": [
+      "Hydroxyl group",
+      "Amino group",
+      "Carboxyl group",
+      "Phosphate group"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which are examples of reducing disaccharides?",
+     "o": [
+      "Lactose and maltose",
+      "Sucrose and lactose",
+      "Maltose and sucrose",
+      "Sucrose and starch"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Non-reducing disaccharides lack a free hydroxyl group at which carbon?",
+     "o": [
+      "Anomeric carbon",
+      "C-1 of glucose only",
+      "C-6 of galactose",
+      "C-3 of fructose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which statement describes non-reducing disaccharides?",
+     "o": [
+      "No free hydroxyl group at the anomeric carbon",
+      "One free hydroxyl group at the anomeric carbon",
+      "They contain three monosaccharides",
+      "They are formed by hydrolysis"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "en": "No textual content on this page (image/blank page).",
+   "ar": "الصفحة دي مفيش فيها نص مكتوب (صورة أو صفحة فاضية).",
+   "ex": "زي سلايد فاضية أو فيها صورة بس؛ المعلومة كلها في الصفحات اللي قبلها وبعدها.",
+   "q": [
+    {
+     "q": "A disaccharide is formed by condensation of how many monosaccharides?",
+     "o": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which is a reducing disaccharide?",
+     "o": [
+      "Lactose",
+      "Sucrose",
+      "Starch",
+      "Cellulose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which group is free at the anomeric carbon in reducing disaccharides?",
+     "o": [
+      "Hydroxyl",
+      "Amino",
+      "Carboxyl",
+      "Phosphate"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which are common disaccharides?",
+     "o": [
+      "Sucrose, lactose, maltose",
+      "Glucose, fructose, galactose",
+      "Starch, glycogen, cellulose",
+      "Ribose, deoxyribose, glucose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Non-reducing disaccharides lack a free hydroxyl group at which carbon?",
+     "o": [
+      "Anomeric carbon",
+      "C-6",
+      "C-3",
+      "C-5"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "en": "Maltose (malt sugar)\n• Maltose is found in germinating seeds such as barley.\n• Maltose is a disaccharide formed from two units of glucose joined with an α(1→4) bond, formed from a condensation reaction.",
+   "ar": "المالتوز (Maltose) أو سكر الشعير (malt sugar):\n• يوجد في البذور النابتة (germinating seeds) مثل الشعير (barley).\n• هو ثنائي سكر (disaccharide) يتكون من وحدتين من الجلوكوز (glucose) مرتبطتين برابطة α(1→4)، وينتج عن تفاعل تكاثف (condensation reaction).",
+   "ex": "تخيل حبتين شعير نابتين، كل واحدة فيها جلوكوز، بيتوصلوا بوصلة اسمها α(1→4) ويرموا مية؛ الناتج مالتوز.",
+   "q": [
+    {
+     "q": "Maltose is also known as?",
+     "o": [
+      "Malt sugar",
+      "Milk sugar",
+      "Table sugar",
+      "Fruit sugar"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Where is maltose found?",
+     "o": [
+      "Germinating seeds such as barley",
+      "Milk",
+      "Sugarcane",
+      "Liver"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Maltose is formed from two units of which monosaccharide?",
+     "o": [
+      "Glucose",
+      "Fructose",
+      "Galactose",
+      "Ribose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What type of bond joins the two glucose units in maltose?",
+     "o": [
+      "α(1→4)",
+      "β(1→4)",
+      "α(1→6)",
+      "β(1→2)"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Maltose is formed by which reaction?",
+     "o": [
+      "Condensation",
+      "Hydrolysis",
+      "Oxidation",
+      "Reduction"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "en": "• Maltose in aqueous solution exhibit mutarotation, due to its anomeric carbon which can form α and β isomers. In aqueous solution, it is shown a balanced way between α and β forms.\n• It tastes sweet, and it does not exist freely in nature.",
+   "ar": "• المالتوز (Maltose) في المحلول المائي (aqueous solution) يظهر تغير الدوران (mutarotation)، وذلك بسبب الكربون الأنوميري (anomeric carbon) الذي يمكن أن يكون متصاوغات ألفا وبيتا (α and β isomers). وفي المحلول المائي يوجد في حالة توازن بين الشكلين α و β.\n• طعمه حلو (sweet)، ولا يوجد حرًا في الطبيعة (does not exist freely in nature).",
+   "ex": "زي ما المفتاح ممكن يلف يمين أو شمال، الكربون الأنوميري في المالتوز ممكن ياخد شكل α أو β، وفي المية بيفضل يتنقل بينهم (mutarotation).",
+   "q": [
+    {
+     "q": "Maltose in aqueous solution exhibits which property?",
+     "o": [
+      "Mutarotation",
+      "Denaturation",
+      "Fermentation",
+      "Hydrolysis"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Mutarotation of maltose is due to which carbon?",
+     "o": [
+      "Anomeric carbon",
+      "C-6 carbon",
+      "C-3 carbon",
+      "C-5 carbon"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which isomers can the anomeric carbon of maltose form?",
+     "o": [
+      "α and β isomers",
+      "D and L isomers",
+      "cis and trans isomers",
+      "Optical isomers only"
+     ],
+     "a": 0
+    },
+    {
+     "q": "In aqueous solution, maltose is in balance between which forms?",
+     "o": [
+      "α and β forms",
+      "Open-chain and ring forms only",
+      "Glucose and fructose",
+      "Lactose and sucrose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which statement about maltose is correct?",
+     "o": [
+      "It tastes sweet and does not exist freely in nature",
+      "It is tasteless and abundant in nature",
+      "It is non-reducing and found in milk",
+      "It contains three glucose units"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "en": "Lactose\n• Lactose is a disaccharide sugar that is found most notably in milk.\n• Lactose is extracted from sweet or sour whey.\n• The Latin word for milk, plus the -ose ending used to name sugars.",
+   "ar": "اللاكتوز (Lactose) هو سكر ثنائي (disaccharide) موجود بشكل ملحوظ في اللبن. بيتم استخراجه من الشرش الحلو أو الحامض (sweet or sour whey). الاسم جاي من الكلمة اللاتينية اللي معناها لبن + اللاحقة -ose اللي بتتضاف على أسماء السكريات.",
+   "ex": "تخيل اللبن زي مصنع صغير، واللاكتوز هو السكر الطبيعي اللي بيديله الطعم الحلو الخفيف. لو اللبن اتخمر أو اتجبن، بيفضل سائل اسمه whey (الشرش) وفيه لسه لاكتوز، فبنستخلصه منه.",
+   "q": [
+    {
+     "q": "Lactose is most notably found in:",
+     "o": [
+      "milk",
+      "honey",
+      "sugarcane",
+      "grapes"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Lactose is extracted from:",
+     "o": [
+      "sweet or sour whey",
+      "molasses",
+      "corn syrup",
+      "beet juice"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The name lactose comes from the Latin word for:",
+     "o": [
+      "milk",
+      "sugar",
+      "sweet",
+      "sour"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Lactose is classified as a:",
+     "o": [
+      "disaccharide",
+      "monosaccharide",
+      "polysaccharide",
+      "trisaccharide"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The suffix used to name sugars is:",
+     "o": [
+      "-ose",
+      "-ase",
+      "-ide",
+      "-ol"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "en": "Lactose is derived from the condensation of galactose and glucose, which form a β-1→4 glycosidic linkage.\nIts systematic name is β-D-galactopyranosyl-(1→4)-D-glucose.",
+   "ar": "اللاكتوز بيتكوّن من اتحاد (condensation) جزيء جالاكتوز (galactose) وجزيء جلوكوز (glucose)، والرابطة بينهم اسمها β-1→4 glycosidic linkage. الاسم العلمي المنهجي له: β-D-galactopyranosyl-(1→4)-D-glucose.",
+   "ex": "تخيل الجالاكتوز والجلوكوز زي قطعتين ليجو، بيتوصلوا ببعض بمشبك مخصوص اسمه β-1→4. الجالاكتوز هو اللي بيبدأ السلسلة (لأن اسمه جه الأول في الاسم العلمي).",
+   "q": [
+    {
+     "q": "Lactose is formed by condensation of:",
+     "o": [
+      "galactose and glucose",
+      "glucose and fructose",
+      "glucose and glucose",
+      "galactose and fructose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The glycosidic linkage in lactose is:",
+     "o": [
+      "β-1→4",
+      "α-1→4",
+      "α-1→2",
+      "β-1→2"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The systematic name of lactose is:",
+     "o": [
+      "β-D-galactopyranosyl-(1→4)-D-glucose",
+      "α-D-glucopyranosyl-(1→4)-D-glucose",
+      "β-D-fructofuranosyl-(1→2)-D-glucose",
+      "α-D-galactopyranosyl-(1→4)-D-fructose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "In lactose, the first sugar unit in the systematic name is:",
+     "o": [
+      "galactose",
+      "glucose",
+      "fructose",
+      "mannose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The linkage connects carbon 1 of galactose to carbon ___ of glucose:",
+     "o": [
+      "4",
+      "2",
+      "6",
+      "3"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "en": "Chemical reactions:\n1. Molisch's reaction: Procedure & observation as Monosaccharide.\n• Comment:\n1. Hydrolysis of disaccharide by conc H2SO4 to simple sugars.\n2. Dehydration of glucose to hydroxymethyl furfural (HMF) by conc sulphuric acid.\n3. Condensation of HMF with 2 molecules of alpha naphthol giving violet ring.",
+   "ar": "التفاعلات الكيميائية:\n1. اختبار موليش (Molisch's reaction): نفس الخطوات والمشاهدة زي المونوساكاريد (Monosaccharide).\nالتعليق (Comment):\n1. تحلل مائي (Hydrolysis) للسكر الثنائي بواسطة حمض الكبريتيك المركز (conc H2SO4) إلى سكريات بسيطة.\n2. تجفيف (Dehydration) للجلوكوز إلى هيدروكسي ميثيل فيورفورال (HMF) بواسطة حمض الكبريتيك المركز.\n3. تكاثف (Condensation) الـ HMF مع 2 جزيء ألفا نافثول (alpha naphthol) مكوّنًا حلقة بنفسجية (violet ring).",
+   "ex": "اختبار موليش زي ما تكون بتعمل طبقات كوكتيل: حمض الكبريتيك المركز بيرسب في القاع، والسكر بيتحلل ويتحول لـ HMF، والـ HMF بيتحد مع ألفا نافثول ويكوّن حلقة بنفسجية عند منطقة التلامس. أي سكر فيه كربوهيدرات بيدّي النتيجة دي.",
+   "q": [
+    {
+     "q": "Molisch's reaction for disaccharides has procedure and observation:",
+     "o": [
+      "as monosaccharide",
+      "different from monosaccharide",
+      "only for ketoses",
+      "only for reducing sugars"
+     ],
+     "a": 0
+    },
+    {
+     "q": "In Molisch's test, conc H2SO4 causes hydrolysis of disaccharide to:",
+     "o": [
+      "simple sugars",
+      "amino acids",
+      "fatty acids",
+      "nucleotides"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Dehydration of glucose by conc sulphuric acid produces:",
+     "o": [
+      "hydroxymethyl furfural (HMF)",
+      "lactic acid",
+      "pyruvic acid",
+      "acetic acid"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The violet ring in Molisch's test results from condensation of HMF with:",
+     "o": [
+      "2 molecules of alpha naphthol",
+      "1 molecule of alpha naphthol",
+      "2 molecules of glucose",
+      "1 molecule of HMF"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The color of the ring in a positive Molisch's test is:",
+     "o": [
+      "violet",
+      "red",
+      "yellow",
+      "blue"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "en": "2. Reactions for reducing sugars:\n• Fehling's test\n• Benedict's test\n• Barfoed's test: same procedure except that the heat in a boiling water bath for 10 m.\n• Moor's test\nAll of the above: Procedure & observation & comments as Monosaccharides.",
+   "ar": "2. تفاعلات السكريات المختزلة (reducing sugars):\n• اختبار فهلنج (Fehling's test)\n• اختبار بندكت (Benedict's test)\n• اختبار بارفود (Barfoed's test): نفس الخطوات لكن التسخين في حمام ماء مغلي لمدة 10 دقائق.\n• اختبار مور (Moor's test)\nكل الاختبارات دي: الخطوات والمشاهدة والتعليقات زي المونوساكاريد.",
+   "ex": "السكريات المختزلة زي شخص عنده فلوس (مجموعة حرة) يقدر يتبرع (يختزل) لأيونات النحاس. الاختبارات دي كلها بتكشف القدرة دي، واللون بيتغير حسب التفاعل. بارفود بس بياخد وقت أطول شوية (10 دقايق في ماء مغلي).",
+   "q": [
+    {
+     "q": "Which of the following is a test for reducing sugars?",
+     "o": [
+      "Fehling's test",
+      "Molisch's test",
+      "Iodine test",
+      "Ninhydrin test"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Barfoed's test differs from the others by:",
+     "o": [
+      "heating in boiling water bath for 10 minutes",
+      "using conc H2SO4",
+      "forming a violet ring",
+      "requiring 45 minutes"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Moor's test is used for:",
+     "o": [
+      "reducing sugars",
+      "non-reducing sugars",
+      "proteins",
+      "lipids"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The procedure, observation, and comments of Fehling's, Benedict's, Barfoed's, and Moor's tests are:",
+     "o": [
+      "as monosaccharides",
+      "as polysaccharides",
+      "unique to disaccharides",
+      "not applicable to disaccharides"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which test is NOT listed under reactions for reducing sugars?",
+     "o": [
+      "Molisch's test",
+      "Fehling's test",
+      "Benedict's test",
+      "Barfoed's test"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "en": "• Osazone test:\n• Procedure:\n• As in Monosaccharides except that the yellow crystals will appear only after heating for 45 minutes.\n• Observation:\n• Formation of maltosazones are rose-shaped (Rosettes) in Maltose.\n• while lactosazones are sun-shaped in lactose.\n• Comment: As in Monosaccharides.",
+   "ar": "• اختبار الأوزازون (Osazone test):\n• الخطوات: زي المونوساكاريد لكن البلورات الصفراء (yellow crystals) بتظهر بس بعد التسخين لمدة 45 دقيقة.\n• المشاهدة: تكوين المالتوزازون (maltosazones) بيكون على شكل وردة (rose-shaped / Rosettes) في المالتوز (Maltose)، بينما اللاكتوزازون (lactosazones) بيكون على شكل شمس (sun-shaped) في اللاكتوز (lactose).\n• التعليق: زي المونوساكاريد.",
+   "ex": "اختبار الأوزازون زي ما تكون بتعمل بلورات سكرية بالشكل: المالتوز بيعمل وردة (rosette)، واللاكتوز بيعمل شمس (sun). وكلهم محتاجين تسخين 45 دقيقة عشان البلورات الصفراء تظهر.",
+   "q": [
+    {
+     "q": "In the osazone test for disaccharides, yellow crystals appear after heating for:",
+     "o": [
+      "45 minutes",
+      "10 minutes",
+      "5 minutes",
+      "1 hour"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Maltosazones are shaped like:",
+     "o": [
+      "rose-shaped (rosettes)",
+      "sun-shaped",
+      "needle-shaped",
+      "cube-shaped"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Lactosazones are shaped like:",
+     "o": [
+      "sun-shaped",
+      "rose-shaped",
+      "star-shaped",
+      "plate-shaped"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The osazone test procedure for disaccharides is:",
+     "o": [
+      "as in monosaccharides except heating time",
+      "completely different",
+      "only for ketoses",
+      "without heating"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The comment for the osazone test is:",
+     "o": [
+      "as in monosaccharides",
+      "as in polysaccharides",
+      "unique to disaccharides",
+      "not mentioned"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "en": "This page contains no text (image-only page).",
+   "ar": "الصفحة دي مفيش فيها نص مكتوب (صفحة صورة فقط).",
+   "ex": "يعني زي صفحة فاضية أو فيها رسمة بس، مفيش معلومات نصية نذاكرها.",
+   "q": [
+    {
+     "q": "What does page 13 contain?",
+     "o": [
+      "No text (image-only page)",
+      "Lactose structure",
+      "Sucrose structure",
+      "Osazone test"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Is there any text on page 13?",
+     "o": [
+      "No",
+      "Yes, about lactose",
+      "Yes, about sucrose",
+      "Yes, about osazone test"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Page 13 is best described as:",
+     "o": [
+      "An image-only page with no text",
+      "A page about lactose",
+      "A page about sucrose",
+      "A page about Molisch's test"
+     ],
+     "a": 0
+    },
+    {
+     "q": "According to the provided text, page 13 has:",
+     "o": [
+      "No text content",
+      "Lactose definition",
+      "Sucrose definition",
+      "Osazone test procedure"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What should you do if a page has only images/no text?",
+     "o": [
+      "Set en to a short note and still give ar/ex/q",
+      "Skip the page entirely",
+      "Invent facts to fill the page",
+      "Only provide questions"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "en": "Sucrose (Non-Reducing disaccharide):\n• Sucrose (Cane sugar):\n• It is formed by the condensation of a molecule of α-D-glucopyranose with a molecule of β-D-fructofuranose through α-β1-2-glucosidic linkage.",
+   "ar": "السكروز (Sucrose) هو سكر ثنائي غير مختزل (Non-Reducing disaccharide):\n• السكروز (سكر القصب / Cane sugar):\n• بيتكوّن من اتحاد (condensation) جزيء α-D-glucopyranose مع جزيء β-D-fructofuranose عن طريق رابطة α-β1-2-glucosidic linkage.",
+   "ex": "السكروز زي اتحاد قطعتين: جلوكوز (α-D-glucopyranose) وفركتوز (β-D-fructofuranose) متوصلين برابطة قوية من النوع α-β1-2. عشان كده السكروز مش سكر مختزل (non-reducing) لأن المجموعات الحرة بتاعتهم مشغولة في الرابطة.",
+   "q": [
+    {
+     "q": "Sucrose is classified as a:",
+     "o": [
+      "non-reducing disaccharide",
+      "reducing disaccharide",
+      "monosaccharide",
+      "polysaccharide"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Sucrose is also known as:",
+     "o": [
+      "cane sugar",
+      "milk sugar",
+      "malt sugar",
+      "grape sugar"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Sucrose is formed by condensation of:",
+     "o": [
+      "α-D-glucopyranose and β-D-fructofuranose",
+      "galactose and glucose",
+      "glucose and glucose",
+      "galactose and fructose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The glycosidic linkage in sucrose is:",
+     "o": [
+      "α-β1-2",
+      "β-1→4",
+      "α-1→4",
+      "β-1→2"
+     ],
+     "a": 0
+    },
+    {
+     "q": "In sucrose, the fructose unit is:",
+     "o": [
+      "β-D-fructofuranose",
+      "α-D-fructofuranose",
+      "β-D-fructopyranose",
+      "α-D-fructopyranose"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "en": "• Sucrose is dextrorotatory (d), and on hydrolysis gives a levorotatory (L) mixture of equal amount of glucose and fructose.\n• This mixture is called invert sugar, and the enzyme producing hydrolysis is called invertase, due to the inversion of rotation form dextro to levo during hydrolysis.",
+   "ar": "• السكروز (Sucrose) يكون dextrorotatory (d) أي يدير الضوء المستقطب لليمين. وعند التحلل المائي hydrolysis ينتج خليط levorotatory (L) مكوّن من كميات متساوية من glucose و fructose.\n• هذا الخليط يسمى invert sugar، والإنزيم الذي يسبب التحلل يسمى invertase، وسمي بهذا الاسم بسبب انقلاب الدوران (inversion) من dextro إلى levo أثناء التحلل.",
+   "ex": "تخيل السكروز ماشي ناحية اليمين (dextro)، وبعد ما يتحلل يقلب الاتجاه ناحية الشمال (levo) عشان كده اسمه invert sugar، والإنزيم اسمه invertase من كلمة انقلاب.",
+   "q": [
+    {
+     "q": "Sucrose is described as:",
+     "o": [
+      "Levorotatory (L)",
+      "Dextrorotatory (d)",
+      "Optically inactive",
+      "Racemic mixture"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Hydrolysis of sucrose gives equal amounts of:",
+     "o": [
+      "Glucose and galactose",
+      "Glucose and fructose",
+      "Fructose and galactose",
+      "Two glucose molecules"
+     ],
+     "a": 1
+    },
+    {
+     "q": "The mixture of glucose and fructose produced from sucrose hydrolysis is called:",
+     "o": [
+      "Invert sugar",
+      "Milk sugar",
+      "Malt sugar",
+      "Grape sugar"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The enzyme that hydrolyzes sucrose is:",
+     "o": [
+      "Maltase",
+      "Lactase",
+      "Invertase",
+      "Amylase"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Why is the enzyme called invertase?",
+     "o": [
+      "Because it produces invert sugar only",
+      "Because it inverts rotation from dextro to levo during hydrolysis",
+      "Because it converts glucose to fructose",
+      "Because it is inactive in acid"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "en": "Chemical reactions:\n1. Molisch's reaction: Procedure & observation as Monosaccharides.\n• Comment:\n• Hydrolysis of disaccharide by conc H2SO4 to simple sugars (glucose and fructose) & dehydration to HMF & furfural.\n• Condensation between HMF or furfural and 2 molecules of alcoholic alpha naphthol.",
+   "ar": "التفاعلات الكيميائية:\n1. تفاعل Molisch: الخطوات والملاحظة مثل السكريات الأحادية monosaccharides.\n• التعليق:\n• التحلل المائي hydrolysis للسكر الثنائي بواسطة حمض الكبريتيك المركز conc H2SO4 إلى سكريات بسيطة (glucose و fructose)، ثم dehydration إلى HMF و furfural.\n• ثم condensation بين HMF أو furfural مع 2 جزيء من alcoholic alpha naphthol.",
+   "ex": "تفاعل Molisch زي اختبار سريع يقولك إن فيه سكر. الحمض المركز يكسر السكروز ويطلع HMF و furfural، ودول يتحدوا مع alpha naphthol ويطلع لون بنفسجي مميز.",
+   "q": [
+    {
+     "q": "Molisch's reaction for disaccharides has the same procedure and observation as:",
+     "o": [
+      "Monosaccharides",
+      "Polysaccharides",
+      "Proteins",
+      "Lipids"
+     ],
+     "a": 0
+    },
+    {
+     "q": "In Molisch's reaction, conc H2SO4 hydrolyzes the disaccharide and causes dehydration to:",
+     "o": [
+      "Glucose and fructose only",
+      "HMF and furfural",
+      "Cuprous oxide",
+      "Furfural only"
+     ],
+     "a": 1
+    },
+    {
+     "q": "The colored complex in Molisch's reaction is formed by condensation between HMF or furfural and:",
+     "o": [
+      "2 molecules of alcoholic alpha naphthol",
+      "1 molecule of NaOH",
+      "2 molecules of Fehling's reagent",
+      "1 molecule of HCl"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The simple sugars produced from sucrose by acid hydrolysis in Molisch's reaction are:",
+     "o": [
+      "Glucose and galactose",
+      "Glucose and fructose",
+      "Fructose and lactose",
+      "Maltose and glucose"
+     ],
+     "a": 1
+    },
+    {
+     "q": "The observation in Molisch's reaction is typically:",
+     "o": [
+      "Red precipitate",
+      "Violet ring",
+      "Reddish brown color",
+      "No result"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "en": "2. Reactions for reducing sugars:\n• Fehling's test\n• Benedict's test\n• Barfoed's test\n• Moor's test\n• Osazone's test:\n• Observation: No result\n• Comment: Due to the absence of free hydroxyl group at the anomeric carbon of both glucose and fructose (non reducing sugar)",
+   "ar": "2. تفاعلات السكريات المختزلة reducing sugars:\n• Fehling's test\n• Benedict's test\n• Barfoed's test\n• Moor's test\n• Osazone's test:\n• الملاحظة: No result (لا توجد نتيجة).\n• التعليق: بسبب عدم وجود مجموعة هيدروكسيل حرة free hydroxyl group على الكربون الأنوميري anomeric carbon في كل من glucose و fructose، لذلك السكروز سكر غير مختزل non-reducing sugar.",
+   "ex": "السكروز زي اتنين ماسكين إيد بعض من نفس المكان (anomeric carbon)، فمافيش إيد حرة تتفاعل مع كواشف الاختزال، عشان كده مايعطي نتيجة في اختبارات reducing sugars.",
+   "q": [
+    {
+     "q": "Which of the following is a reaction for reducing sugars?",
+     "o": [
+      "Molisch's test",
+      "Fehling's test",
+      "Ketose test",
+      "Acid hydrolysis only"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Sucrose gives no result with reducing sugar tests because:",
+     "o": [
+      "It lacks glucose",
+      "It has no free hydroxyl group at the anomeric carbon",
+      "It is a ketose",
+      "It contains only fructose"
+     ],
+     "a": 1
+    },
+    {
+     "q": "In the Osazone's test, sucrose gives:",
+     "o": [
+      "Red precipitate",
+      "Yellow precipitate",
+      "No result",
+      "Violet ring"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Sucrose is classified as:",
+     "o": [
+      "Reducing sugar",
+      "Non-reducing sugar",
+      "Monosaccharide",
+      "Polysaccharide"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Which group of tests is listed for reducing sugars?",
+     "o": [
+      "Molisch's and Ketose tests",
+      "Fehling's, Benedict's, Barfoed's, Moor's, and Osazone's tests",
+      "Acid hydrolysis and Molisch's test",
+      "Only Fehling's test"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "en": "3. Ketose test:\nProcedure: Add 2 ml of sugar solution to 1 ml of conc HCl solution. Boil for 2 min.\nObservation: reddish brown.\nComment: HCl hydrolyses sucrose to glucose and fructose.\n• Dehydration of fructose and formation of furfural which is reddish brown in color in acidic medium.",
+   "ar": "3. اختبار الكيتوز Ketose test:\nالخطوات: أضف 2 مل من محلول السكر إلى 1 مل من حمض الهيدروكلوريك المركز conc HCl. اغلِ لمدة دقيقتين.\nالملاحظة: لون بني محمر reddish brown.\nالتعليق: HCl يحلل السكروز hydrolysis إلى glucose و fructose.\n• ثم dehydration للـ fructose وتكوين furfural الذي يكون لونه بني محمر في الوسط الحمضي acidic medium.",
+   "ex": "الفركتوز هو سكر كيتوني (ketose)، ولما يتسخن مع حمض HCl يطلع furfural لونه بني محمر، زي ما تسخن حاجة سكرية مع حمض فتغمق.",
+   "q": [
+    {
+     "q": "The Ketose test procedure uses:",
+     "o": [
+      "2 ml sugar solution + 1 ml conc HCl, boil 2 min",
+      "2 ml sugar + 2 ml Fehling's, boil",
+      "5 ml sucrose + 2 ml dilute H2SO4",
+      "1 ml sugar + 2 ml NaOH"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The observation of the Ketose test on sucrose is:",
+     "o": [
+      "Red precipitate",
+      "Violet ring",
+      "Reddish brown color",
+      "No result"
+     ],
+     "a": 2
+    },
+    {
+     "q": "In the Ketose test, HCl hydrolyzes sucrose to:",
+     "o": [
+      "Glucose and galactose",
+      "Glucose and fructose",
+      "Fructose and lactose",
+      "Maltose and glucose"
+     ],
+     "a": 1
+    },
+    {
+     "q": "The reddish brown color in the Ketose test is due to:",
+     "o": [
+      "Furfural formed by dehydration of fructose",
+      "Cuprous oxide",
+      "HMF only",
+      "Alpha naphthol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The Ketose test is especially based on the reaction of:",
+     "o": [
+      "Glucose",
+      "Fructose",
+      "Sucrose only",
+      "Lactose"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "en": "4. Acid hydrolysis:\nProcedure:\n1. Add 5 ml of sucrose, in a test tube\n2. add 2 ml of dilute sulfuric acid.\n3. Boil for 2 minutes then Cool thoroughly under the tap.\n4. Neutralize by adding 2 ml of 30% NaOH.\n5. Take about 2 ml of the hydrolysate and add 2 ml of the mixed Fehling's reagent and boil.\nObservation: Red ppt\n• N.B: It is essential to neutralize the hydrolysate with NaOH before applying Fehling's solution as excess acid will dissolve cuprous oxide.\n• Comment:\n• The acid hydrolyses sucrose to glucose and fructose & both of them reduce Cu+2 to Cu2O (red ppt).",
+   "ar": "4. التحلل الحمضي Acid hydrolysis:\nالخطوات:\n1. أضف 5 مل من السكروز في أنبوب اختبار.\n2. أضف 2 مل من حمض الكبريتيك المخفف dilute sulfuric acid.\n3. اغلِ لمدة دقيقتين ثم برّد جيدًا تحت الصنبور.\n4. عادل neutralise بإضافة 2 مل من NaOH 30%.\n5. خذ حوالي 2 مل من الناتج hydrolysate وأضف 2 مل من كاشف Fehling's المخلوط واغلِ.\nالملاحظة: راسب أحمر Red ppt.\n• ملحوظة مهمة N.B: من الضروري تعادل الناتج بـ NaOH قبل إضافة محلول Fehling's لأن الحمض الزائد يذيب cuprous oxide.\n• التعليق:\n• الحمض يحلل السكروز إلى glucose و fructose وكلاهما يختزل Cu+2 إلى Cu2O (راسب أحمر).",
+   "ex": "لو ماادللتش الحمض قبل Fehling's، الراسب الأحمر cuprous oxide هيذوب ومش هتشوف نتيجة. زي ما تغسل دليل التفاعل بمية حمضية فيختفي.",
+   "q": [
+    {
+     "q": "In the acid hydrolysis of sucrose, which acid is used?",
+     "o": [
+      "Conc HCl",
+      "Dilute sulfuric acid",
+      "Conc H2SO4",
+      "Nitric acid"
+     ],
+     "a": 1
+    },
+    {
+     "q": "After boiling sucrose with acid, why is NaOH added?",
+     "o": [
+      "To increase acidity",
+      "To neutralize the hydrolysate before Fehling's test",
+      "To form furfural",
+      "To dissolve cuprous oxide"
+     ],
+     "a": 1
+    },
+    {
+     "q": "The observation after adding Fehling's reagent to the neutralized hydrolysate is:",
+     "o": [
+      "Red precipitate",
+      "Violet ring",
+      "Reddish brown color",
+      "No result"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The red precipitate in acid hydrolysis is:",
+     "o": [
+      "Cu2O (cuprous oxide)",
+      "Furfural",
+      "HMF",
+      "Alpha naphthol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Acid hydrolysis of sucrose yields glucose and fructose, and both:",
+     "o": [
+      "Are non-reducing sugars",
+      "Reduce Cu+2 to Cu2O",
+      "Give no result with Fehling's",
+      "Are dextrorotatory only"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "en": "No text on this page (image/diagram only).",
+   "ar": "الصفحة 20 لا تحتوي على نص مكتوب (غالبًا صورة أو رسم توضيحي فقط).",
+   "ex": "يعني الصفحة دي زي صورة توضيحية، المفروض نرجع للنص اللي قبلها عشان نكمل الفهم.",
+   "q": [
+    {
+     "q": "What is present in the source text of page 20?",
+     "o": [
+      "Full paragraph text",
+      "Only an image/diagram with no text",
+      "Chemical equations",
+      "A table of results"
+     ],
+     "a": 1
+    },
+    {
+     "q": "If a page contains only an image, what should you do?",
+     "o": [
+      "Ignore the whole lecture",
+      "Review the related text pages for context",
+      "Invent new facts",
+      "Skip all questions"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Page 20 is best described as:",
+     "o": [
+      "Text-only page",
+      "Empty of written text in the provided source",
+      "A page of MCQs",
+      "A summary page"
+     ],
+     "a": 1
+    },
+    {
+     "q": "The source text for page 20 contains:",
+     "o": [
+      "Nothing written",
+      "Three paragraphs",
+      "A procedure list",
+      "Five bullet points"
+     ],
+     "a": 0
+    },
+    {
+     "q": "For exam preparation, image-only pages are usually:",
+     "o": [
+      "More important than text pages",
+      "Used as visual aids to support the text",
+      "Never relevant",
+      "Always contain answers"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "en": "No text on this page (image/diagram only).",
+   "ar": "الصفحة 21 لا تحتوي على نص مكتوب (غالبًا صورة أو رسم توضيحي فقط).",
+   "ex": "برضه صفحة صورة، راجع النص اللي قبلها واربط الصورة بالشرح.",
+   "q": [
+    {
+     "q": "What is present in the source text of page 21?",
+     "o": [
+      "Only an image/diagram with no text",
+      "A full reaction mechanism",
+      "A list of reagents",
+      "A conclusion paragraph"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Page 21 in the provided source is:",
+     "o": [
+      "A text-heavy page",
+      "An image-only page with no written text",
+      "A quiz page",
+      "A references page"
+     ],
+     "a": 1
+    },
+    {
+     "q": "When a lecture page has no text, the best study approach is to:",
+     "o": [
+      "Guess the content",
+      "Relate it to the previous text pages",
+      "Memorize nothing",
+      "Skip the lecture"
+     ],
+     "a": 1
+    },
+    {
+     "q": "The source text for page 21 contains how many written words?",
+     "o": [
+      "Zero",
+      "Ten",
+      "Fifty",
+      "One hundred"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Image/diagram pages are usually included to:",
+     "o": [
+      "Replace all text",
+      "Support understanding of the written content",
+      "Contain exam answers only",
+      "Confuse the reader"
+     ],
+     "a": 1
+    }
+   ]
+  }
+ ],
+ "high_risk": [
+  {
+   "t": "تعريف الـ Disaccharide وطريقة تكوينه",
+   "idea": "الـ Disaccharide يتكون من اتحاد اثنين Monosaccharide في تفاعل Condensation مع فقد جزيء ماء. أمثلة: Sucrose, Lactose, Maltose.",
+   "why": "سؤال تعريف أساسي ومتكرر في الامتحانات.",
+   "page": "3",
+   "alt": "ما هو الـ Disaccharide؟ اذكر مثالين."
+  },
+  {
+   "t": "الفرق بين Reducing و Non-reducing Disaccharides",
+   "idea": "Reducing: يوجد free hydroxyl group عند anomeric carbon مثل Lactose و Maltose. Non-reducing: لا يوجد free hydroxyl group عند anomeric carbon مثل Sucrose.",
+   "why": "تمييز مهم يترتب عليه نتائج الاختبارات الكيميائية.",
+   "page": "4",
+   "alt": "اذكر أنواع الـ Disaccharides مع مثال لكل نوع."
+  },
+  {
+   "t": "تركيب Maltose وخصائصه",
+   "idea": "Maltose = glucose + glucose برابطة α(1→4). يوجد في germinating seeds مثل barley. يظهر mutarotation. حلو الطعم ولا يوجد حراً في الطبيعة.",
+   "why": "من أكثر الأمثلة المطلوبة في الامتحان.",
+   "page": "6-7",
+   "alt": "ما هو Maltose؟ وما نوع الرابطة فيه؟"
+  },
+  {
+   "t": "تركيب Lactose وخصائصه",
+   "idea": "Lactose = galactose + glucose برابطة β-1→4. يوجد في milk ويستخلص من sweet or sour whey. الاسم النظامي β-D-galactopyranosyl-(1→4)-D-glucose.",
+   "why": "سؤال شائع عن lactose ومصدره وتركيبه.",
+   "page": "8-9",
+   "alt": "ما هو الاسم النظامي لـ Lactose؟"
+  },
+  {
+   "t": "تركيب Sucrose",
+   "idea": "Sucrose = α-D-glucopyranose + β-D-fructofuranose برابطة α-β1-2 glycosidic linkage. وهو Non-reducing disaccharide.",
+   "why": "تركيب Sucrose وسؤال لماذا هو non-reducing.",
+   "page": "14",
+   "alt": "ما هو تركيب السكروز؟ ولماذا لا يختزل؟"
+  },
+  {
+   "t": "Invert sugar و Invertase",
+   "idea": "Sucrose dextrorotatory (d). عند hydrolysis يعطي خليط متساوي من glucose + fructose levorotatory (L) يسمى invert sugar. الإنزيم المسؤول هو invertase.",
+   "why": "سؤال متكرر عن انعكاس الدوران.",
+   "page": "15",
+   "alt": "ما هو Invert sugar؟ وما سبب تسميته؟"
+  },
+  {
+   "t": "Molisch's reaction للـ Disaccharides",
+   "idea": "Molisch's reaction: conc H2SO4 يحلل disaccharide إلى simple sugars ثم dehydration إلى HMF/furfural ثم condensation مع alpha naphthol يعطي violet ring.",
+   "why": "اختبار عام لكل الكربوهيدرات وغالباً يأتي مع التعليل.",
+   "page": "10,16",
+   "alt": "ما هو Molisch test؟ وما تفسير النتيجة؟"
+  },
+  {
+   "t": "اختبارات Reducing sugars مع Sucrose",
+   "idea": "Fehling, Benedict, Barfoed, Moor: إيجابية مع Maltose و Lactose. Sucrose سلبية. Osazone: Sucrose no result due absence free hydroxyl group at anomeric carbon. Barfoed heating 10 min.",
+   "why": "مقارنة مهمة بين السكريات المختزلة وغير المختزلة.",
+   "page": "11,17",
+   "alt": "لماذا لا يعطي Sucrose نتيجة مع Fehling؟"
+  },
+  {
+   "t": "Osazone test وأشكال البلورات",
+   "idea": "Maltose: maltosazones rose-shaped (Rosettes). Lactose: lactosazones sun-shaped. Heating for 45 minutes.",
+   "why": "تفصيلة حفظ شهيرة وسهلة السؤال.",
+   "page": "12",
+   "alt": "ما شكل osazone في Maltose و Lactose؟"
+  },
+  {
+   "t": "Ketose test و Acid hydrolysis للسكروز",
+   "idea": "Ketose test: HCl + boil يعطي reddish brown بسبب hydrolysis إلى fructose ثم furfural. Acid hydrolysis: dilute H2SO4 + boil ثم neutralize with 30% NaOH قبل Fehling. Observation red ppt. N.B. excess acid dissolves cuprous oxide.",
+   "why": "اختبارات خاصة بالسكروز مع ملاحظة Neutralization.",
+   "page": "18-19",
+   "alt": "لماذا نضيف NaOH قبل Fehling في Acid hydrolysis؟"
+  }
+ ],
+ "must_know": [
+  "Disaccharide = two monosaccharides + condensation - water.",
+  "Reducing disaccharides: Lactose, Maltose. Non-reducing: Sucrose.",
+  "Maltose: glucose + glucose, α(1→4), germinating seeds, mutarotation, not free in nature.",
+  "Lactose: galactose + glucose, β-1→4, milk, whey, systematic name β-D-galactopyranosyl-(1→4)-D-glucose.",
+  "Sucrose: α-D-glucopyranose + β-D-fructofuranose, α-β1-2 linkage, non-reducing, cane sugar.",
+  "Invert sugar: glucose + fructose, dextro to levo, enzyme invertase.",
+  "Molisch positive for all carbohydrates: violet ring.",
+  "Fehling, Benedict, Barfoed, Moor positive for Maltose and Lactose; negative for Sucrose.",
+  "Osazone: Maltose rosettes, Lactose sun-shaped, heating 45 min.",
+  "Sucrose ketose test: HCl boil gives reddish brown due fructose furfural.",
+  "Acid hydrolysis of sucrose: neutralize with NaOH before Fehling; excess acid dissolves cuprous oxide.",
+  "Barfoed test: heat in boiling water bath for 10 min."
+ ],
+ "dont_confuse": [
+  "Maltose α(1→4) glucose-glucose ≠ Lactose β(1→4) galactose-glucose.",
+  "Sucrose non-reducing ≠ Lactose/Maltose reducing.",
+  "Maltosazone rosettes ≠ Lactosazone sun-shaped.",
+  "Invertase enzyme ≠ Invert sugar mixture.",
+  "Sucrose dextrorotatory ≠ Invert sugar levorotatory.",
+  "Molisch positive all carbohydrates ≠ Reducing tests only reducing sugars.",
+  "Barfoed 10 min ≠ Osazone 45 min.",
+  "Neutralize acid before Fehling; excess acid dissolves Cu2O."
+ ],
+ "one_min": "الـ Disaccharides تتكون من سكرين أحاديين مع فقد ماء. Maltose = glucose+glucose α1→4، Lactose = galactose+glucose β1→4، وكلاهما reducing. Sucrose = glucose+fructose α-β1-2 وغير reducing. Molisch موجب للكل. Reducing tests موجبة لـ Maltose و Lactose وسالبة لـ Sucrose. Osazone: Maltose rosettes و Lactose sun-shaped. Sucrose يعطي ketose test reddish brown، وفي acid hydrolysis نعادل بـ NaOH قبل Fehling لأن الحمض الزائد يذيب cuprous oxide."
+}
